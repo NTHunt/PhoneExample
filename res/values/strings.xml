@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phone</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="MainLayout_Button1">从通讯录中选择</string>
+    <string name="empty"/>
+    <string name="app_about">关于</string>
+    <string name="str_exit">离开</string>
+    <string name="app_about_msg">这是牛涛的通话程序</string>
+    <string name="str_OK">确定</string>
+    <string name="app_exit">离开？</string>
+    <string name="app_exit_msg">请确认是否离开</string>
+    <string name="str_NO">取消</string>
+    <string name="Dial">拨打电话</string>
+
+</resources>
